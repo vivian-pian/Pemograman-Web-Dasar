@@ -5,7 +5,7 @@ Tech stack atau tumpukan teknologi merupakan serangkaian teknologi yang digunaka
 Web environment atau lingkungan web merupakan ruang daring atau tempat yang dapat digunakan untuk mengakses informasi, mentransfer data, dan berintraksi dengan berbagai sumber daya melalui antarmuka pengguna grafis (GUI) atau browser. Web environment ini dapat mengakses jaringan dengan lancar terhadap berbagai jenis informasi dan layanan, sehingga dapat meningkatkan kenyamanan dan kegunaan pengguna. 
 
 ## Frontend
-Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Adapun perusahaan atau web yang menggunakan frontend seperti BBC News, UNICEF, dan Havard University. Salah satu contoh komponen frontend adalah HTML.
+Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Salah satu contoh komponen frontend adalah HTML. Adapun perusahaan atau web yang menggunakan frontend seperti BBC News, UNICEF, dan Havard University. 
 
 ### Kelebihan :
 1. Mudah dipelajari
@@ -29,7 +29,7 @@ Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seper
 9. Tidak memiliki banyak fungsionalitas tingkat tinggi seperti database dan pengolahan data
 
 ## Backend
-Backend adalah segala sesuatu yang membuat aplikasi berfungsi. Adapun perusahaan atau web yang menggunakan backend seperti Google, Google Maps, dan Eyezen.com. Salah satu contoh komponen backend adalah JavaScript.
+Backend adalah segala sesuatu yang membuat aplikasi berfungsi. Salah satu contoh komponen backend adalah JavaScript. Adapun perusahaan atau web yang menggunakan backend seperti Google, Google Maps, dan Eyezen.com. 
 
 ### Kelebihan :
 1. Mudah dipelajari
@@ -51,7 +51,9 @@ Backend adalah segala sesuatu yang membuat aplikasi berfungsi. Adapun perusahaan
 8. API Node.js sering berubah dan perubahan tersebut sering kali tidak kompatibel dengan versi sebelumnya
 
 ## Database
-Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan mudah dalam pengelolaannya sehingga pengguna dapatb memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi. Adapun perusahaan atau web yang menggunakan database seperti Uber, AirBnb, Facebook, Twitter, Amazon Udemy, dan Pinterest. Salah satu contoh komponen database adalah MySql.
+Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan mudah dalam pengelolaannya sehingga pengguna dapatb memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi. Salah satu contoh komponen database adalah MySql. Adapun perusahaan atau web yang menggunakan database seperti Uber, AirBnb, Facebook, Twitter, Amazon Udemy, dan Pinterest. 
+
+MySql terus mendominasi dunia perkembangan web pada tahun 2025, dikarenakan kinerjanya yang sangat cepat dan implementasinya yang mudah. MySql membuat studi dengan sangat efisien untuk platform e-commerce dan sistem manajemen konten, dengan kecepatan eksekusi kueri yang secara konsisten melampaui pesaing dengan fitur fitur bawaan basis data. MySql pada tahun 2025b telah berkembang untuk menangani tantangan web modern dengan tekik pengoptimalan query tingkat lanjut telah menjadikannya semakin canggih, terutama untuk menangani operasi data kompleks dan skenario konkurensi tinggi. 
 
 ### Kelebihan :
 1. Bisa melakukan integrasi dengan bahasa pemograman lain seperti R, Python, dll
@@ -65,3 +67,24 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 1. Kurang mampu untuk mengelola database dalam jumlah besar
 2. Tidak begitu cocok untuk aplikasi game dan mobile
 3. Karena bersifat open source, technical support nya menjadi kurang bagus
+
+## Tools Web
+Tools web atau web development tools adalah perangkat lunak atau aplikasi yang digunakan developer dalam proses pembuatanb website atau aplikasi web yang dimana dapat digunakan untuk menulis, mengedit, dan mengecek kode, serta menjalankan tugas-tugas yang berulang-ulang seperti kompresi file, menjalankan tes, dan lain-lain. Salah satu contoh komponen tools web adalah Subline Text. Adapun perusahaan atau web yang menggunakan Tools web Sumbline Text adalah PT. Sinar Sosro.
+
+### Kelebihan :
+1. Performa yang cepat dan responsive
+2. User interface yang intuitif dan mudah digunakan
+3. Fitur multiple selection dan editing yang canggih
+4. Built-in package manager untuk menambahkan fitur tambahan
+5. Dukungan untuk banyak bahasa pemrograman
+6. Fitur fuzzy searching untuk file, teks, dan menu
+7. Integrasi dengan sistem file dan terminal.
+
+### Kekurangan :
+1. Harga lisensi cukup mahal
+2. Tidak adanya dukungan resmi dan dokumentasi yang baik
+3. Kurang banyak fitur dibandingkan dengan Visual Studio Code atau IDE lainnya
+4. Beberapa fitur canggih mungkin hanya tersedia melalui ekstensi yang harus diinstal terpisah.
+
+## Sumber
+<a href="https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya#:~:text=Kelebihan%20lainnya%20adalah%20HTML%20merupakan,yang%20harus%20dibuat%20secara%20terpisah.</a>
