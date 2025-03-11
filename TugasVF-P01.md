@@ -5,86 +5,85 @@ Tech stack atau tumpukan teknologi merupakan serangkaian teknologi yang digunaka
 Web environment atau lingkungan web merupakan ruang daring atau tempat yang dapat digunakan untuk mengakses informasi, mentransfer data, dan berintraksi dengan berbagai sumber daya melalui antarmuka pengguna grafis (GUI) atau browser. Web environment ini dapat mengakses jaringan dengan lancar terhadap berbagai jenis informasi dan layanan, sehingga dapat meningkatkan kenyamanan dan kegunaan pengguna. 
 
 ## Frontend
-Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Salah satu contoh komponen frontend adalah HTML. Adapun perusahaan atau web yang menggunakan frontend seperti BBC News, UNICEF, dan Havard University. 
+    Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Salah satu contohnya adalah HTML.
 
 ### Kelebihan :
-1. Mudah dipelajari
-2. Gratis dan Open Source
-3. Dapat dijalankan di semua browser modern
-4. Ramah seo
-5. Mendukung multimedia
-6. Dapat diintegrasikan dengan CSS, JavaScript, dan jQuery
-7. Memiliki banyak sumber dan komunitas yang besar
-8. Menjadi standar resmi web
+
+#####  1. Mudah dipelajari
+#####  2. Gratis dan Open Source
+#####  3. Dapat dijalankan di semua browser modern
+#####  4. Ramah seo
+#####  5. Mendukung multimedia
+#####  6. Dapat diintegrasikan dengan CSS, JavaScript, dan jQuery
+#####  7. Memiliki banyak sumber dan komunitas yang besar
+#####  8. Menjadi standar resmi web
 
 ### Kekurangan :
-1. Fungsional terbatas
-2. Ketergantungan pada browser
-3. Masalah keamanan
-4. Tidak memiliki kemampuan penangaan data
-5. Tidak cukup untuk membuat tampilan website menjadi dinamis
-6. Tingkat keamanannya termasuk rentan dan lemah
-7. Sifatnya statis
-8. Kodenya panjang
-9. Tidak memiliki banyak fungsionalitas tingkat tinggi seperti database dan pengolahan data
 
-## Backend
-Backend adalah segala sesuatu yang membuat aplikasi berfungsi. Salah satu contoh komponen backend adalah JavaScript. Adapun perusahaan atau web yang menggunakan backend seperti Google, Google Maps, dan Eyezen.com. 
+#####  1. Fungsional terbatas
+#####  2. Ketergantungan pada browser
+#####  3. Masalah keamanan
+#####  4. Tidak memiliki kemampuan penangaan data
+#####  5. Tidak cukup untuk membuat tampilan website menjadi dinamis
+#####  6. Tingkat keamanannya termasuk rentan dan lemah
+#####  7. Sifatnya statis
+#####  8. Kodenya panjang
+#####  9. Tidak memiliki banyak fungsionalitas tingkat tinggi seperti database dan pengolahan data
 
-### Kelebihan :
-1. Mudah dipelajari
-2. Fleksibel
-3. Interaktif
-4. Responsif
-5. Banyak digunakan perusahaan besar
-6. Mendukung pustaka yang luas
-7. Integrasi mulus dengan HTML dan CSS
+## tren perkembangan tech tersebut di tahun 2025 : 
+##### 1. Desain dan Personalisasi Berbasis AI
+    Penggunaan teknologi kecerdasan buatan (AI) dalam desain web akan semakin meningkat. AI akan membantu dalam pembuatan dan personalisasi konten, memungkinkan situs web untuk menyajikan informasi yang lebih relevan berdasarkan perilaku dan preferensi pengguna. Ini termasuk rekomendasi desain yang lebih baik serta optimasi konten untuk berbagai platform.
+##### 2. Fokus pada Pengalaman Pengguna (UX)
+    Tahun 2025 akan melihat peningkatan signifikan dalam pengalaman pengguna, dengan penekanan pada aksesibilitas dan interaksi yang lebih baik. Situs web akan dirancang untuk inklusif, memastikan bahwa pengguna dengan disabilitas dapat mengakses informasi dengan mudah. Selain itu, elemen interaktif seperti animasi kecil akan menambah daya tarik visual.
+##### 3. Integrasi Teknologi Imersif
+    Pengalaman web akan semakin imersif dengan integrasi model 3D dan teknologi augmented reality (AR) serta virtual reality (VR). Ini sangat penting dalam sektor e-commerce dan real estat, di mana visualisasi produk menjadi kunci.
+    
+## contoh perusahaan/web yang menggunakan tech stack tersebut : 
+ ##### - BBC News
+ ##### - UNICEF
+ ##### - Harvard University
 
-### Kekurangan :
-1. Masalah keamanan
-2. Keterbatasan objek
-3. Tidak cocok untuk aplikasi standalone
-4. Keterbatasan kinerja karena eksekusi single-threaded
-5. Ketidakkonsisten di berbagai browser
-6. Men-debug dan memecahkan masalah kode JavaScript dapat menjadi tantangan
-7. Kurang cocok untuk komputasi berat dan pemrosesan data di sisi server
-8. API Node.js sering berubah dan perubahan tersebut sering kali tidak kompatibel dengan versi sebelumnya
+## Backend 
+    Backend adalah bagian dari sistem yang berada di belakang layar, yaitu data dan infrastruktur yang membuat aplikasi atau website dapat berfungsi. Backend juga disebut sebagai server side. salah satunya adalah JavaScript
+ 
+### kelebihan : 
+##### 1. mudah dipelajari 
+##### 2. fleksibel 
+##### 3. interaktif
+##### 4. responsif
+##### 5. banyak digunakan perusahaan besar
+##### 6. mendukung pustaka yang luas
+##### 7. integrasi mulus dengan HTML dan CSS
 
-## Database
-Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan mudah dalam pengelolaannya sehingga pengguna dapatb memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi. Salah satu contoh komponen database adalah MySql. Adapun perusahaan atau web yang menggunakan database seperti Uber, AirBnb, Facebook, Twitter, Amazon Udemy, dan Pinterest. 
+### kekurangan :  
+##### 1. masalah keamanan 
+##### 2. keterbatasan objek 
+##### 3. tidak cocok untuk aplikasi standalone 
+##### 4. keterbatasan kinerja karena eksekusi single-threaded
+##### 5. ketidakkonsisten di berbagai browser 
+##### 6. men-debug dan memecahkan masalah kode JavaScript dapat menjadi tantangan 
+##### 7. kurang cocok untuk komputasi berat dan pemrosesan data di sisi server 
+##### 8. API Node.js sering berubah, dan perubahan tersebut sering kali tidak kompatibel dengan versi sebelumnya. 
 
-MySql terus mendominasi dunia perkembangan web pada tahun 2025, dikarenakan kinerjanya yang sangat cepat dan implementasinya yang mudah. MySql membuat studi dengan sangat efisien untuk platform e-commerce dan sistem manajemen konten, dengan kecepatan eksekusi kueri yang secara konsisten melampaui pesaing dengan fitur fitur bawaan basis data. MySql pada tahun 2025b telah berkembang untuk menangani tantangan web modern dengan tekik pengoptimalan query tingkat lanjut telah menjadikannya semakin canggih, terutama untuk menangani operasi data kompleks dan skenario konkurensi tinggi. 
+## tren perkembangan tech tersebut di tahun 2025
+###### 1. Framework JavaScript yang Relevan Framework JavaScript seperti React, Angular, dan Vue tetap menjadi pilihan utama dalam pengembangan web. Framework baru seperti Svelte dan Solid.js mulai mendapatkan popularitas karena efisiensi dalam pengelolaan komponen dan rendering.
+###### 2. Framework Baru yang Muncul Framework JavaScript baru seperti Astro.js 3.0, Qwik.js, SolidStart, dan Fresh.js muncul untuk menjawab tantangan modern dalam pengembangan web.
+###### 3. Node.js Node.js tetap menjadi pilihan populer untuk pengembangan backend karena memungkinkan penggunaan JavaScript di frontend dan backend, mengurangi kompleksitas, dan mempercepat siklus pengembangan.
 
-### Kelebihan :
-1. Bisa melakukan integrasi dengan bahasa pemograman lain seperti R, Python, dll
-2. RAM yang dibutuhkan tidak begitu besar
-3. Bisa digunakan oleh multi user
-4. Struktur tabelnya lebih fleksibel
-5. Bersifat open source (gratis)
-6. Keamanan yang terjamin
+## contoh perusahaan/web yang menggunakan tech stack tersebut 
+##### 1. Google
+##### 2. Google Maps 
+##### 3. Eyezen.com 
 
-### Kekurangan :
-1. Kurang mampu untuk mengelola database dalam jumlah besar
-2. Tidak begitu cocok untuk aplikasi game dan mobile
-3. Karena bersifat open source, technical support nya menjadi kurang bagus
-
-## Tools Web
-Tools web atau web development tools adalah perangkat lunak atau aplikasi yang digunakan developer dalam proses pembuatanb website atau aplikasi web yang dimana dapat digunakan untuk menulis, mengedit, dan mengecek kode, serta menjalankan tugas-tugas yang berulang-ulang seperti kompresi file, menjalankan tes, dan lain-lain. Salah satu contoh komponen tools web adalah Subline Text. Adapun perusahaan atau web yang menggunakan Tools web Sumbline Text adalah PT. Sinar Sosro.
-
-### Kelebihan :
-1. Performa yang cepat dan responsive
-2. User interface yang intuitif dan mudah digunakan
-3. Fitur multiple selection dan editing yang canggih
-4. Built-in package manager untuk menambahkan fitur tambahan
-5. Dukungan untuk banyak bahasa pemrograman
-6. Fitur fuzzy searching untuk file, teks, dan menu
-7. Integrasi dengan sistem file dan terminal.
-
-### Kekurangan :
-1. Harga lisensi cukup mahal
-2. Tidak adanya dukungan resmi dan dokumentasi yang baik
-3. Kurang banyak fitur dibandingkan dengan Visual Studio Code atau IDE lainnya
-4. Beberapa fitur canggih mungkin hanya tersedia melalui ekstensi yang harus diinstal terpisah.
-
-## Sumber
-<a href="https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya#:~:text=Kelebihan%20lainnya%20adalah%20HTML%20merupakan,yang%20harus%20dibuat%20secara%20terpisah.</a>
+## SUMBER : 
+* https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya#:~:text=Kelebihan%20lainnya%20adalah%20HTML%20merupakan,yang%20harus%20dibuat%20secara%20terpisah. 
+https://docif.telkomuniversity.ac.id/apa-itu-html/ 
+* https://primakara.ac.id/blog/info-teknologi/html 
+* https://www.geeksforgeeks.org/top-frontend-development-trends/ 
+* https://web-and-mobile-development.medium.com/10-mesmerizing-websites-showcasing-fabolous-frontend-capabilities-d53c7a206c95 
+* https://blog-hubspot-com.translate.goog/website/html-websites?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=11.,Bumi%20mengalami%20gerhana&text=Yang%20saya%20suka:%20Berikut%20adalah,begitu%20banyak%20situs%20web%20menarik. 
+* https://shiftinc.id/tren-masa-depan-web-desain-2025/?lang=id 
+* https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya 
+* https://itbox.id/blog/javascript-adalah-fungsi-kelebihan-kekurangannya/ 
+* https://www-cmarix-com.translate.goog/blog/websites-that-use-javascript/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=1.,apa%20pun%20yang%20ditampilkan%20web. 
+* https://haltev.id/framework-javascript-tren-framework-di-tahun-2025/ 
