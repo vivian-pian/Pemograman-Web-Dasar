@@ -5,7 +5,7 @@ Tech stack atau tumpukan teknologi merupakan serangkaian teknologi yang digunaka
 Web environment atau lingkungan web merupakan ruang daring atau tempat yang dapat digunakan untuk mengakses informasi, mentransfer data, dan berintraksi dengan berbagai sumber daya melalui antarmuka pengguna grafis (GUI) atau browser. Web environment ini dapat mengakses jaringan dengan lancar terhadap berbagai jenis informasi dan layanan, sehingga dapat meningkatkan kenyamanan dan kegunaan pengguna. 
 
 ## Frontend
-Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Salah satu contohnya adalah HTML.
+Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seperti tombol, kotak centang, grafik, dan pesan teks. Contoh perusahaan atau web yang menggunakan frontend adalah BBC News, UNICEF, dan Havard University. Salah satu contohnya adalah HTML.
 
 ### Kelebihan :
 
@@ -30,4 +30,5 @@ Frontend adalah tampilan yang dilihat oleh pengguna termasuk elemen visual seper
 #####  8. Kodenya panjang
 #####  9. Tidak memiliki banyak fungsionalitas tingkat tinggi seperti database dan pengolahan data
 
+### 
 
