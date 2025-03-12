@@ -115,25 +115,25 @@ Dukungan Multi-Platform: Sublime Text tersedia untuk berbagai sistem operasi sep
 4. Beberapa fitur canggih mungkin hanya tersedia melalui ekstensi yang harus diinstal terpisah.
 
 ## Sumber
-<a href=”https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya”>  https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya </a>
-<a href="https://docif.telkomuniversity.ac.id/apa-itu-html/"> https://docif.telkomuniversity.ac.id/apa-itu-html/ </a>
-<a href="https://primakara.ac.id/blog/info-teknologi/html "> https://primakara.ac.id/blog/info-teknologi/html </a>
-<a href="https://www.geeksforgeeks.org/top-frontend-development-trends/"> https://www.geeksforgeeks.org/top-frontend-development-trends/ </a>
-<a href="https://web-and-mobile-development.medium.com/10-mesmerizing-websites-showcasing-fabolous-frontend-capabilities-d53c7a206c95"> https://web-and-mobile-development.medium.com/10-mesmerizing-websites-showcasing-fabolous-frontend-capabilities-d53c7a206c95 </a>
-<a href="https://shiftinc.id/tren-masa-depan-web-desain-2025/?lang=id"> https://shiftinc.id/tren-masa-depan-web-desain-2025/?lang=id </a>
-<a href="https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya"> https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya </a>
-<a href="https://itbox.id/blog/javascript-adalah-fungsi-kelebihan-kekurangannya/"> https://itbox.id/blog/javascript-adalah-fungsi-kelebihan-kekurangannya/ </a>
-<a href="https://www-cmarix-com.translate.goog/blog/websites-that-use-javascript/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=1.,apa%20pun%20yang%20ditampilkan%20web"> https://www-cmarix-com.translate.goog/blog/websites-that-use-javascript/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=1.,apa%20pun%20yang%20ditampilkan%20web </a>
-<a href="https://haltev.id/framework-javascript-tren-framework-di-tahun-2025/"> https://haltev.id/framework-javascript-tren-framework-di-tahun-2025/ </a>
-<a href="https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data"> https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data </a>
-<a href="https://www.nucamp.co/blog/coding-bootcamp-backend-with-python-2025-postgresql-vs-mysql-in-2025-choosing-the-best-database-for-your-backend"> https://www.nucamp.co/blog/coding-bootcamp-backend-with-python-2025-postgresql-vs-mysql-in-2025-choosing-the-best-database-for-your-backend </a>
-<a href="https://www.bola.com/ragam/read/5235915/contoh-database-terpopuler-di-dunia?page=4"> https://www.bola.com/ragam/read/5235915/contoh-database-terpopuler-di-dunia?page=4 </a>
-<a href="
+* <a href=”https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya”>  https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya </a>
+* <a href="https://docif.telkomuniversity.ac.id/apa-itu-html/"> https://docif.telkomuniversity.ac.id/apa-itu-html/ </a>
+* <a href="https://primakara.ac.id/blog/info-teknologi/html "> https://primakara.ac.id/blog/info-teknologi/html </a>
+* <a href="https://www.geeksforgeeks.org/top-frontend-development-trends/"> https://www.geeksforgeeks.org/top-frontend-development-trends/ </a>
+* <a href="https://web-and-mobile-development.medium.com/10-mesmerizing-websites-showcasing-fabolous-frontend-capabilities-d53c7a206c95"> https://web-and-mobile-development.medium.com/10-mesmerizing-websites-showcasing-fabolous-frontend-capabilities-d53c7a206c95 </a>
+* <a href="https://shiftinc.id/tren-masa-depan-web-desain-2025/?lang=id"> https://shiftinc.id/tren-masa-depan-web-desain-2025/?lang=id </a>
+* <a href="https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya"> https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya </a>
+* <a href="https://itbox.id/blog/javascript-adalah-fungsi-kelebihan-kekurangannya/"> https://itbox.id/blog/javascript-adalah-fungsi-kelebihan-kekurangannya/ </a>
+* <a href="https://www-cmarix-com.translate.goog/blog/websites-that-use-javascript/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=1.,apa%20pun%20yang%20ditampilkan%20web"> https://www-cmarix-com.translate.goog/blog/websites-that-use-javascript/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=sge#:~:text=1.,apa%20pun%20yang%20ditampilkan%20web </a>
+* <a href="https://haltev.id/framework-javascript-tren-framework-di-tahun-2025/"> https://haltev.id/framework-javascript-tren-framework-di-tahun-2025/ </a>
+* <a href="https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data"> https://dqlab.id/kelebihan-dan-kekurangan-mysql-yang-harus-diketahui-oleh-praktisi-data </a>
+* <a href="https://www.nucamp.co/blog/coding-bootcamp-backend-with-python-2025-postgresql-vs-mysql-in-2025-choosing-the-best-database-for-your-backend"> https://www.nucamp.co/blog/coding-bootcamp-backend-with-python-2025-postgresql-vs-mysql-in-2025-choosing-the-best-database-for-your-backend </a>
+* <a href="https://www.bola.com/ragam/read/5235915/contoh-database-terpopuler-di-dunia?page=4"> https://www.bola.com/ragam/read/5235915/contoh-database-terpopuler-di-dunia?page=4 </a>
+* <a href="
 https://repository.nusamandiri.ac.id/index.php/repo/viewitem/2807"> https://repository.nusamandiri.ac.id/index.php/repo/viewitem/2807 </a>
-<a href="https://www.idn.id/visual-studio-code-vs-sublime-text/"> https://www.idn.id/visual-studio-code-vs-sublime-text/ </a>
-<a href="https://journal.unmaha.ac.id/index.php/jtim/article/download/25/25/179"> https://journal.unmaha.ac.id/index.php/jtim/article/download/25/25/179 </a>
-<a href="https://www.sciencedirect.com/topics/computer-science/web-environment"> https://www.sciencedirect.com/topics/computer-science/web-environment </a>
-<a href="https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/"> https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/ </a>
-<a href="https://www.dicoding.com/blog/apa-itu-database/"> https://www.dicoding.com/blog/apa-itu-database/ </a>
-<a href="https://techarea.co.id/text-editor-terbaik/"> https://techarea.co.id/text-editor-terbaik/ </a>
-<a href="https://www.idn.id/web-development-tools-dan-framework-yang-sering-digunakan/#:~:text=Web%20development%20tools%20adalah%20perangkat,tes%2C%20dan%20lain%2Dlain."> https://www.idn.id/web-development-tools-dan-framework-yang-sering-digunakan/#:~:text=Web%20development%20tools%20adalah%20perangkat,tes%2C%20dan%20lain%2Dlain. </a>
+* <a href="https://www.idn.id/visual-studio-code-vs-sublime-text/"> https://www.idn.id/visual-studio-code-vs-sublime-text/ </a>
+* <a href="https://journal.unmaha.ac.id/index.php/jtim/article/download/25/25/179"> https://journal.unmaha.ac.id/index.php/jtim/article/download/25/25/179 </a>
+* <a href="https://www.sciencedirect.com/topics/computer-science/web-environment"> https://www.sciencedirect.com/topics/computer-science/web-environment </a>
+* <a href="https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/"> https://aws.amazon.com/id/compare/the-difference-between-frontend-and-backend/ </a>
+* <a href="https://www.dicoding.com/blog/apa-itu-database/"> https://www.dicoding.com/blog/apa-itu-database/ </a>
+* <a href="https://techarea.co.id/text-editor-terbaik/"> https://techarea.co.id/text-editor-terbaik/ </a>
+* <a href="https://www.idn.id/web-development-tools-dan-framework-yang-sering-digunakan/#:~:text=Web%20development%20tools%20adalah%20perangkat,tes%2C%20dan%20lain%2Dlain."> https://www.idn.id/web-development-tools-dan-framework-yang-sering-digunakan/#:~:text=Web%20development%20tools%20adalah%20perangkat,tes%2C%20dan%20lain%2Dlain. </a>
